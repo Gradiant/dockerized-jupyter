@@ -1,0 +1,7 @@
+avro-python3==1.9.2.1
+kafka-python==2.0.1
+hdfs==2.5.8
+PyHive==0.6.2
+sasl==0.2.1
+thrift==0.13.0
+thrift-sasl==0.4.1

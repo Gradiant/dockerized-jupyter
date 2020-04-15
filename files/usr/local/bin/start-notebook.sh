@@ -17,3 +17,5 @@ elif [[ ! -z "${JUPYTER_ENABLE_LAB}" ]]; then
 else
   . /usr/local/bin/start.sh $wrapper jupyter notebook "$@"
 fi
+
+fi
